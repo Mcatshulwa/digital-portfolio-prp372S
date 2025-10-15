@@ -31,3 +31,20 @@ Results from a professional networking proficiency quiz, demonstrating my unders
 - **Action:** I studied networking principles and applied this knowledge to answer quiz questions correctly. This included understanding different types of networking events, learning the "golden rule" of networking (likely focusing on mutual benefit rather than just personal gain), identifying common networking mistakes to avoid, and recognizing the important first steps in creating a professional network.
 
 - **Result:** Successfully completing this quiz provided me with a solid theoretical foundation in professional networking strategies. I now understand how to approach networking opportunities effectively, avoid common pitfalls, and build genuine professional relationships that can support my career growth in the ICT industry.
+
+## Business Communication
+
+**Evidence**  
+- Professional slide deck on "Essential Business Communication Skills"
+- Recorded presentation video demonstrating verbal and non-verbal delivery
+- Business communication principles quiz results
+
+**Reflection (STAR Technique)**
+
+- **Situation:** As part of the Work Readiness Training, I was required to both demonstrate practical business communication skills through a presentation and prove theoretical knowledge through a comprehensive quiz.
+
+- **Task:** I needed to create and deliver a professional presentation on business communication fundamentals while also mastering the core principles of professional communication, virtual etiquette, and appropriate language usage.
+
+- **Action:** I designed and developed a professional slide deck covering key business communication topics, practiced and recorded my presentation delivery, and successfully completed a business communication quiz testing my knowledge of formal language, email tone, non-verbal cues, and virtual meeting standards.
+
+- **Result:** This combination of practical application and theoretical learning equipped me with comprehensive business communication skills. I can now confidently create professional presentations, deliver them effectively using appropriate verbal and non-verbal communication, and apply proper etiquette in emails, virtual meetings, and professional interactions.
