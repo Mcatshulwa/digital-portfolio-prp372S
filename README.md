@@ -20,17 +20,19 @@ A recorded video of a simulated mock interview session is provided here. The vid
 ## Professional Networking
 
 **Evidence**  
-Results from a professional networking proficiency quiz, demonstrating my understanding of networking principles, etiquette, and strategies. The quiz covered topics including the purpose of networking, types of networking events, golden rules, common mistakes to avoid, and initial steps in building a professional network.
+- Professional photograph of me engaged in a work environment
+- Screenshot of my optimized LinkedIn profile
+- Professional networking principles quiz results
 
 **Reflection (STAR Technique)**
 
-- **Situation:** As part of the Work Readiness Training, I completed a comprehensive quiz on professional networking to test my knowledge of effective networking strategies and best practices in the modern job market.
+- **Situation:** To build an authentic professional presence, I needed to showcase both my theoretical understanding of networking principles and my practical engagement in professional environments.
 
-- **Task:** I needed to demonstrate my understanding of networking fundamentals, including identifying the primary purposes of professional networking, recognizing appropriate networking behaviors, and understanding the step-by-step process for building valuable professional connections.
+- **Task:** I aimed to create a comprehensive professional identity that combined formal networking knowledge with genuine workplace presence, demonstrating my readiness to engage in the professional ICT community.
 
-- **Action:** I studied networking principles and applied this knowledge to answer quiz questions correctly. This included understanding different types of networking events, learning the "golden rule" of networking (likely focusing on mutual benefit rather than just personal gain), identifying common networking mistakes to avoid, and recognizing the important first steps in creating a professional network.
+- **Action:** I captured a professional photograph while actively engaged in work-related activities, optimized my LinkedIn profile with this authentic image, crafted a compelling headline and summary, connected with industry professionals, and completed a networking principles quiz to solidify my theoretical knowledge.
 
-- **Result:** Successfully completing this quiz provided me with a solid theoretical foundation in professional networking strategies. I now understand how to approach networking opportunities effectively, avoid common pitfalls, and build genuine professional relationships that can support my career growth in the ICT industry.
+- **Result:** The work-environment photograph provides authentic evidence of my professional demeanor and practical experience. Combined with my optimized LinkedIn profile and networking knowledge, I have established a credible and multifaceted professional presence that accurately represents my capabilities and career aspirations to potential employers and connections.
 
 ## Business Communication
 
