@@ -13,7 +13,7 @@ A recorded video of a simulated mock interview session is provided here. The vid
 
 - **Task:** My goal was to effectively communicate my suitability for a target role, successfully applying my prepared answers, active listening, and professional demeanour under simulated pressure.
 
-- **Action:** I treated the mock interview as a real one, dressing professionally and preparing accordingly. During the session, I used the STAR method to answer questions, maintained positive body language, and asked relevant questions at the end.
+- **Action:** I treated the mock interview as a real one, dressing professionally and preparing accordingly. 
 
 - **Result:** Reviewing the recording provided invaluable feedback on my performance, highlighting strengths in my answer structure and areas for improvement, such as reducing filler words. This experience was critical in bridging the gap between theory and practice.
 
