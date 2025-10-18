@@ -66,3 +66,19 @@ A recorded video of a simulated mock interview session is provided here. The vid
 - **Action:** I designed and developed a professional slide deck covering key business communication topics, practiced and recorded my presentation delivery, and successfully completed a business communication quiz testing my knowledge of formal language, email tone, non-verbal cues, and virtual meeting standards.
 
 - **Result:** This combination of practical application and theoretical learning equipped me with comprehensive business communication skills. I can now confidently create professional presentations, deliver them effectively using appropriate verbal and non-verbal communication, and apply proper etiquette in emails, virtual meetings, and professional interactions.
+
+## Workplace Etiquette
+
+**Evidence**
+- **Workplace Etiquette Quiz Results**  demonstrating knowledge of professional protocols.
+- **Professional Meeting Agenda & Minutes** for a hypothetical project kickoff, showcasing organizational and communication skills.
+
+**Reflection (STAR Technique)**
+
+- **Situation:** To demonstrate my practical understanding of workplace professionalism, I needed to create evidence that goes beyond theoretical knowledge and shows my ability to apply etiquette in everyday work scenarios.
+
+- **Task:** I aimed to simulate a common professional task—planning and documenting a meeting—to prove my competence in organization, clear communication, and professional documentation.
+
+- **Action:** I created a detailed meeting agenda with clear objectives and time allocations. I then wrote formal minutes from the hypothetical meeting, documenting discussions, decisions made, and action items with responsible persons, adhering to professional standards.
+
+- **Result:** This exercise provided tangible proof of my ability to contribute professionally in a team setting. I can now confidently create structured agendas to ensure productive meetings and document outcomes effectively, ensuring accountability and follow-through—a crucial skill for any software development team.
