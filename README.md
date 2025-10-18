@@ -2,6 +2,22 @@
 
 This digital portfolio is a comprehensive collection of evidence and reflections from my Work Readiness Training. It is structured around the core learning areas and demonstrates my professional development. Each section includes verifiable evidence and a personal reflection using the STAR technique (Situation, Task, Action, Result) to critically analyze my learning journey. All work was completed individually.
 
+## Interview Skills
+
+**Evidence**  
+- **Interview Skills Quiz Results** (Score: 100%) demonstrating knowledge of interview purposes, methods, and strategic answering techniques.
+- **Comprehensive Q&A Preparation Document** featuring structured answers to common questions, STAR-method responses, and company research strategies.
+
+**Reflection (STAR Technique)**
+
+- **Situation:** As part of my Work Readiness Training, I needed to build a solid foundation in interview techniques, both in theory and practice, to prepare for the software development job market.
+
+- **Task:** My goal was to master core interview concepts—confirmed by achieving a perfect score on the interview skills quiz—and to apply that knowledge by creating a practical preparation guide with well-crafted, personalized answers.
+
+- **Action:** I successfully completed the interview principles quiz, proving my understanding of key strategies. I then developed a detailed Q&A document where I formulated professional answers to common questions, practiced articulating my experiences using the STAR method, and prepared insightful questions to ask potential employers.
+
+- **Result:** I am now thoroughly prepared for technical and behavioral interviews. I have a proven understanding of interview fundamentals and a practical toolkit—including my preparation document—that allows me to confidently articulate my skills, experiences, and value as a CPUT software development graduate to potential employers.
+
 ## Mock Interview
 
 **Evidence**
